@@ -1,0 +1,5 @@
+{
+  "status": "ok",
+  "app_name": "FastAPI LangChain Service",
+  "environment": "local"
+}
